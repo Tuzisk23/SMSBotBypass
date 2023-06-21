@@ -2,9 +2,9 @@ module.exports = {
     apiurl: 'http://localhost:1337',
     apipassword: '',
 
-    discordtoken: '',
+    discordtoken: 'rDFNKsSDzNgGNSRqW96DDU9g_mowDTO7',
     discordprefix: '!',
-    secretpassword: 'ChAnGeThIsWiThYoUrPaSsWoRdNoW!',
+    secretpassword: 'gay123',
     botuser_rolename: 'Bot User',
     admin_rolename: 'Admin'
 };
